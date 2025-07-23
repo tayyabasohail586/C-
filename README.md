@@ -1,2 +1,3 @@
-# C-
+# C++
 Book Inventory System
+This is a simple Book Inventory Management System developed in C++ that allows users to manage a small collection of books using a command-line interface. The system enables users to add new books to the inventory, update the quantity of existing books, calculate the total value of the inventory based on quantity and price, and search for books by genre. It uses a fixed-size array of structures to store book information such as title, author, genre, quantity, and price. The code demonstrates the use of fundamental C++ concepts like structures, arrays, loops, and conditional statements, making it a great beginner-level project for understanding basic inventory management logic in C++
